@@ -53,21 +53,38 @@ This project was created as a personal learning project to gain practical experi
 
 ## Project Status
 
-Personal learning project.
+Personal learning project currently under active development.
 
 ## Screenshots
 
 ### Main Interface
+
 ![Main Interface](01.png)
 
 ### Registry Navigation
+
 ![Registry Navigation](02.png)
 
 ### Registry Search
+
 ![Registry Search](06.png)
 
 ### Saved Registry Locations
+
 ![Saved Locations](04.png)
 
 ### Open Registry Path
+
 ![Open Registry Path](05.png)
+
+## Future Development
+
+Planned improvements include:
+
+* Registry permission and security management features
+* Read-only and write-protection options for selected Registry locations
+* Advanced workspace management
+* Additional Shell and Windows integration features
+* Improved user interface and usability enhancements
+
+The project is actively being developed and new features may be added over time.

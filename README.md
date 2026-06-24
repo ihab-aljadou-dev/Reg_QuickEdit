@@ -26,4 +26,17 @@ Personal learning project developed to gain practical experience with Windows ad
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Main Interface
+![Main Interface](01.png)
+
+### Registry Navigation
+![Registry Navigation](02.png)
+
+### Registry Search
+![Registry Search](06.png)
+
+### Saved Registry Locations
+![Saved Locations](04.png)
+
+### Open Registry Path
+![Open Registry Path](05.png)

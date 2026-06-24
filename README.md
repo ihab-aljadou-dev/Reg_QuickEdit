@@ -12,7 +12,7 @@ The application was created to:
 * Reduce repetitive manual input of registry paths, keys, values, and data
 * Preserve the current work context while performing searches
 * Organize frequently used Registry locations
-* Improve productivity during Registry research and Windows customization tasks
+* Improve productivity during Registry research, troubleshooting, and Windows customization tasks
 
 ## Features
 
@@ -28,8 +28,11 @@ The application was created to:
 * Export and import saved sessions
 * Open multiple instances of the application simultaneously for working on different Registry locations
 * Execute helper commands through Windows Shell and CMD integration
-* Launch Registry-related dialogs and Windows components directly from saved entries
-* Simplify exploration of CLSIDs and Shell-related Registry entries
+* Execute selected Registry entries directly through Windows Shell, Explorer, CMD, or Rundll32
+* Launch Windows components and dialogs from stored Registry entries
+* Explore and test CLSIDs without manually creating commands or navigating Registry structures
+* Run Shell-related Registry entries directly from the application
+* Quickly identify the function of unknown CLSIDs and Shell objects
 * Assist in Registry research and Windows system analysis
 
 ## Technologies
@@ -59,23 +62,13 @@ Personal learning project currently under active development.
 
 ### Main Interface
 
-![Main Interface](01.png)
-
 ### Registry Navigation
-
-![Registry Navigation](02.png)
 
 ### Registry Search
 
-![Registry Search](06.png)
-
 ### Saved Registry Locations
 
-![Saved Locations](04.png)
-
 ### Open Registry Path
-
-![Open Registry Path](05.png)
 
 ## Future Development
 
